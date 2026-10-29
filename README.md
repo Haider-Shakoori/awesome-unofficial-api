@@ -34,6 +34,11 @@ WhatsApp's multi-device protocol (WhatsApp Web style) is one of the most activel
   Docs: https://wasenderapi.com/api-docs  
   SDKs: npm (wasenderapi), PyPI (wasenderapi), Packagist (wasenderapi/wasenderapi-laravel)
 
+- **RelayWA** (hosted service)  
+  QR-linked unofficial WhatsApp Web REST API with multi-session management, HTTP messaging, webhooks, and developer integration guides. Uses WhatsApp Web sessions rather than Meta's official Cloud API.  
+  Website: https://relaywa.com/  
+  Docs: https://relaywa.com/api-docs  
+
 - **mautrix/whatsapp**  
   Matrix puppeting bridge (connect WhatsApp to Matrix ecosystem)  
   https://github.com/mautrix/whatsapp
