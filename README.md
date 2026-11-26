@@ -40,6 +40,11 @@ WhatsApp's multi-device protocol (WhatsApp Web style) is one of the most activel
   Docs: https://relaywa.com/api-docs  
   SDKs: [JavaScript/TypeScript (npm)](https://www.npmjs.com/package/@relaywa/sdk), [Python (PyPI)](https://pypi.org/project/relaywa-sdk/), [PHP (Packagist)](https://packagist.org/packages/relaywa/sdk), [.NET (NuGet)](https://www.nuget.org/packages/RelayWA.Sdk/0.1.1)  
 
+- **Wasaas** (hosted service)  
+  Unofficial, session-based WhatsApp API SaaS for MENA developers. QR-linked multi-session management, REST messaging, webhooks, and SDKs for Node.js and Laravel. No Meta approval needed; uses your own WhatsApp sessions (Web protocol emulation).  
+  Website: https://wasaas.org/  
+  SDKs: [Node.js (npm)](https://www.npmjs.com/package/wasaas), [PHP/Laravel (Packagist)](https://packagist.org/packages/wasaas/wasaas-php)  
+
 - **mautrix/whatsapp**  
   Matrix puppeting bridge (connect WhatsApp to Matrix ecosystem)  
   https://github.com/mautrix/whatsapp
